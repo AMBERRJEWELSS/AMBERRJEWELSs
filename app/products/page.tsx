@@ -18,6 +18,8 @@ const products = [
   { name: 'clock', image: '/clock.jpg' },
   { name: 'Earrings', image: '/Earrings.jpg' },
   { name: 'Rings', image: '/Rings.jpg' },
+  { name: 'Resin Photo Frames', image: '/Resin Photo Frames.jpg' },
+  { name: 'Name Stand', image: '/Name Stand.jpg' },
 ]
 
 export default function ProductsPage() {
