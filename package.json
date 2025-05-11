@@ -1,0 +1,32 @@
+{
+  "name": "amberrjewelss",
+  "version": "1.0.0",
+  "description": "Luxury Resin Jewelry and Home Decor Website",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.1",
+    "express": "^4.18.2",
+    "framer-motion": "^11.0.3",
+    "mongoose": "^8.1.0",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "swiper": "^11.0.5",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.11.1",
+    "@types/node": "^20.11.5",
+    "@types/react": "^18.2.48",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33",
+    "typescript": "^5.3.3"
+  }
+}
